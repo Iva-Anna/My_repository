@@ -1,0 +1,7 @@
+C:\Users\Student\source\repos\Монополия\Монополия\bin\Debug\Монополия.exe.config
+C:\Users\Student\source\repos\Монополия\Монополия\bin\Debug\Монополия.exe
+C:\Users\Student\source\repos\Монополия\Монополия\bin\Debug\Монополия.pdb
+C:\Users\Student\source\repos\Монополия\Монополия\obj\Debug\Монополия.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Монополия\Монополия\obj\Debug\Монополия.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Монополия\Монополия\obj\Debug\Монополия.exe
+C:\Users\Student\source\repos\Монополия\Монополия\obj\Debug\Монополия.pdb
